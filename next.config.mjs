@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
   productionBrowserSourceMaps: true,
   distDir: process.env.DIST_DIR || '.next',  typescript: {
     ignoreBuildErrors: true,
