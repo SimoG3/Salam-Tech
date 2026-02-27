@@ -1,0 +1,261 @@
+[
+    {
+        "id": "prod_001",
+        "name": "iPhone 15 Pro Max",
+        "category": "Smartphones",
+        "price": 14999,
+        "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
+        "alt": "iPhone 15 Pro Max in titanium finish with triple camera system on white background",
+        "description": "Le dernier iPhone avec puce A17 Pro, syst\u00e8me de cam\u00e9ra avanc\u00e9 et design en titane. \u00c9cran Super Retina XDR de 6,7 pouces.",
+        "specs": [
+            "Puce A17 Pro",
+            "\u00c9cran 6,7\" Super Retina XDR",
+            "Cam\u00e9ra 48MP + t\u00e9l\u00e9objectif 5x",
+            "Batterie jusqu'\u00e0 29h vid\u00e9o",
+            "Titane, 256GB"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_002",
+        "name": "Samsung Galaxy S24 Ultra",
+        "category": "Smartphones",
+        "price": 13499,
+        "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80",
+        "alt": "Samsung Galaxy S24 Ultra black smartphone with S Pen stylus on gray surface",
+        "description": "Smartphone premium avec stylet S Pen int\u00e9gr\u00e9, \u00e9cran Dynamic AMOLED 2X et zoom 100x. Intelligence artificielle Galaxy AI.",
+        "specs": [
+            "Snapdragon 8 Gen 3",
+            "\u00c9cran 6,8\" QHD+ 120Hz",
+            "Cam\u00e9ra 200MP + zoom 100x",
+            "S Pen int\u00e9gr\u00e9",
+            "12GB RAM, 512GB"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_003",
+        "name": "MacBook Pro 16\" M3 Max",
+        "category": "Laptops",
+        "price": 32999,
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+        "alt": "MacBook Pro laptop with glowing Apple logo on dark wooden desk",
+        "description": "Ordinateur portable professionnel avec puce M3 Max, \u00e9cran Liquid Retina XDR et autonomie exceptionnelle. Id\u00e9al pour cr\u00e9ation vid\u00e9o.",
+        "specs": [
+            "Puce Apple M3 Max",
+            "\u00c9cran 16\" Liquid Retina XDR",
+            "36GB RAM unifi\u00e9e",
+            "1TB SSD",
+            "Autonomie 22 heures"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_004",
+        "name": "Dell XPS 15 9530",
+        "category": "Laptops",
+        "price": 18999,
+        "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&q=80",
+        "alt": "Dell XPS laptop with thin bezels displaying colorful screen on white desk",
+        "description": "Ultrabook puissant avec \u00e9cran OLED 4K, processeur Intel Core i9 et design premium en aluminium. Parfait pour professionnels.",
+        "specs": [
+            "Intel Core i9-13900H",
+            "\u00c9cran 15,6\" OLED 4K",
+            "32GB DDR5 RAM",
+            "NVIDIA RTX 4060",
+            "1TB NVMe SSD"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_009",
+        "name": "Google Pixel 8 Pro",
+        "category": "Smartphones",
+        "price": 9999,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&q=80",
+        "alt": "Google Pixel smartphone in blue color showing home screen on white surface",
+        "description": "Smartphone Google avec IA avanc\u00e9e, cam\u00e9ra exceptionnelle et Android pur. \u00c9cran OLED 120Hz et design premium.",
+        "specs": [
+            "Google Tensor G3",
+            "\u00c9cran 6,7\" OLED 120Hz",
+            "Cam\u00e9ra 50MP + t\u00e9l\u00e9objectif 5x",
+            "Magic Eraser, Best Take",
+            "12GB RAM, 256GB"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_010",
+        "name": "ASUS ROG Zephyrus G16",
+        "category": "Laptops",
+        "price": 24999,
+        "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+        "alt": "ASUS gaming laptop with RGB keyboard backlight open on gaming desk",
+        "description": "PC portable gaming ultra-fin avec \u00e9cran Mini LED 240Hz, RTX 4080 et design premium. Performance maximale dans un ch\u00e2ssis compact.",
+        "specs": [
+            "Intel Core i9-13980HX",
+            "\u00c9cran 16\" Mini LED 240Hz",
+            "NVIDIA RTX 4080",
+            "32GB DDR5, 2TB SSD",
+            "Ch\u00e2ssis aluminium 1,9kg"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_013",
+        "name": "Airpods Pro 3 Ferington",
+        "category": "Audio",
+        "price": 149,
+        "image": "../assets/WhatsApp Image 2026-02-23 at 23.47.19(1).jpg",
+        "alt": "Apple AirPods Pro 3 Ferington avec boîtier de charge USB-C et embouts en silicone",
+        "description": "La version Ferington des AirPods Pro 3 offre le design iconique et une expérience utilisateur fluide. Profitez d'une connexion instantanée avec animation pop-up sur iPhone et d'une qualité sonore équilibrée pour votre musique et vos appels quotidiens. Le compromis parfait entre style et accessibilité.",
+        "specs": [
+            "Design 1:1 identique à l'original",
+            "Animation Pop-up et appairage automatique",
+            "Commandes tactiles (pression sur la tige)",
+            "Fonction de renommage et GPS (Localiser)",
+            "Autonomie : env. 4h par charge",
+            "Boîtier avec port de charge USB-C"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_014",
+        "name": "HOF Wireless Speaker HF-F119",
+        "category": "Accessoires",
+        "price": 149,
+        "image": "../assets/WhatsApp Image 2026-02-23 at 23.38.58.jpeg",
+        "description": "L'enceinte HF-F119 est un haut-parleur sans fil au design audacieux en forme de voiture de luxe. Elle ne se contente pas d'être un objet de décoration original : elle intègre un panneau solaire pour une recharge écologique, des lumières LED dynamiques et une connectivité complète pour animer vos soirées ou décorer votre bureau.",
+        "specs": [
+            "Design unique SUV/Voiture de sport avec LED RGB",
+            "Bluetooth 5.3 pour une connexion stable (10m)",
+            "Recharge hybride : Solaire et Micro-USB",
+            "Multi-sources : USB, Carte TF (Micro SD), Radio FM et AUX",
+            "Batterie 1200mAh (Autonomie de 2 à 5 heures)",
+            "Fonction TWS pour coupler deux enceintes"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_015",
+        "name": "Konfulon A7Q Power Bank 20000mAh",
+        "category": "Accessoires",
+        "price": 219,
+        "image": "../assets/WhatsApp Image 2026-02-23 at 23.29.47.jpeg",
+        "alt": "Batterie externe portable noire avec écran LCD affichant le pourcentage de batterie",
+        "description": "Le Konfulon A7Q est une batterie externe haute performance offrant une capacité massive de 20 000 mAh dans un design compact et robuste. Équipé de la technologie Super Fast Charge 22.5W et d'un écran LCD précis, il est idéal pour recharger rapidement vos smartphones, tablettes et autres gadgets plusieurs fois par cycle.",
+        "specs": [
+            "Capacité : 20 000 mAh (74Wh)",
+            "Sortie Max : 22.5W (Supporte PD 20W et QC 3.0)",
+            "Ports : 2x USB-A (Sortie), 1x Type-C (Entrée/Sortie PD), 1x Micro-USB",
+            "Affichage numérique LED du niveau de charge",
+            "Compatibilité universelle (iPhone, Samsung, Huawei, etc.)",
+            "Système de protection multicouche contre les surtensions"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_016",
+        "name": "Laxasfit S10 Max Smartwatch",
+        "category": "Accessoires",
+        "price": 180,
+        "image": "../assets/534328036_17907086907209400_7473940578030594267_n.jpg",
+        "alt": "Montre connectée Laxasfit S10 Max avec grand écran tactile et bracelet en silicone",
+        "description": "La Laxasfit S10 Max est une montre connectée polyvalente au design inspiré des grandes marques. Dotée d'un large écran HD de 2.29 pouces, elle permet de passer des appels via Bluetooth et de suivre votre santé au quotidien (sommeil, rythme cardiaque). C'est l'accessoire idéal pour rester connecté avec style sans se ruiner.",
+        "specs": [
+            "Écran tactile HD de 2.29 pouces",
+            "Appels Bluetooth (Micro et Haut-parleur intégrés)",
+            "Suivi santé : Rythme cardiaque, Oxygène (SpO2), Sommeil",
+            "Modes multisports et suivi d'activité (pas, calories)",
+            "Notifications (SMS, WhatsApp, Réseaux sociaux)",
+            "Autonomie : 3 à 5 jours en utilisation normale"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_017",
+        "name": "NIA WH700 Wireless Headphones",
+        "category": "Audio",
+        "price": 150,
+        "image": "../assets/nia_wh700_over_ear_headsets_wireless_stereo_bluetooth_headphones_bluetooth_with_mic_super_sound1633687557-600x600.webp",
+        "alt": "Casque audio sans fil NIA WH700 noir avec coussinets confortables",
+        "description": "Le NIA WH700 est un casque circum-aural (Over-Ear) 4-en-1 qui combine style et polyvalence. Conçu pour offrir une expérience stéréo immersive, il dispose de coussinets en cuir souple pour un confort prolongé. C'est l'outil parfait pour ceux qui veulent écouter de la musique via Bluetooth, carte Micro SD, ou même la radio FM sans dépendre de leur téléphone.",
+        "specs": [
+            "Connectivité : Bluetooth 5.3 + Filaire (Jack 3.5mm)",
+            "Fonction 4-en-1 : Bluetooth, Carte Micro SD, Radio FM, Entrée AUX",
+            "Haut-parleurs de 40mm pour des basses profondes",
+            "Design pliable pour un transport facile",
+            "Microphone intégré pour les appels mains libres",
+            "Autonomie : Jusqu'à 12 heures de lecture continue"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_018",
+        "name": "Vencor WS681 Wireless Keyboard and Mouse Combo",
+        "category": "Accessoires",
+        "price": 160,
+        "image": "../assets/headset.PNG",
+        "alt": "Ensemble clavier et souris sans fil Vencor noir au design ultra-fin",
+        "description": "Le pack Vencor WS681 est une solution bureautique complète alliant ergonomie et simplicité. Ce combo sans fil 2.4 GHz offre une liberté de mouvement totale jusqu'à 10 mètres, avec un clavier au profil fin pour une frappe silencieuse et une souris optique précise. Idéal pour optimiser votre espace de travail sans encombrement de câbles.",
+        "specs": [
+            "Connexion sans fil 2.4 GHz via un seul récepteur USB Nano",
+            "Clavier Full-size avec touches multimédias",
+            "Souris optique 1600 DPI pour une navigation fluide",
+            "Portée sans fil : Jusqu'à 10 mètres",
+            "Design 'Plug & Play' : aucune installation requise",
+            "Mode économie d'énergie automatique"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_019",
+        "name": "F11-2 Wireless Microphone System",
+        "category": "Audio",
+        "price": 250,
+        "image": "../assets/microphone.PNG",
+        "alt": "Double microphone cravate sans fil avec récepteur pour smartphone et caméra",
+        "description": "Le système F11-2 est un kit de microphones sans fil double canal (2 émetteurs, 1 récepteur) conçu pour les créateurs de contenu. Compact et 'Plug & Play', il offre une transmission stable et une réduction intelligente du bruit pour des enregistrements clairs sur smartphone, tablette ou appareil photo. Idéal pour les interviews, le vlogging et le streaming en direct.",
+        "specs": [
+            "Système double : 2 Microphones + 1 Récepteur",
+            "Connexion sans fil 2.4 GHz haute fidélité",
+            "Réduction du bruit ambiant intelligente intégrée",
+            "Compatibilité : USB-C / Lightning / Jack 3.5mm",
+            "Portée de transmission : Jusqu'à 20 mètres",
+            "Autonomie : env. 6-8 heures d'utilisation"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    },
+    {
+        "id": "prod_020",
+        "name": "JBL Everest JB950 Wireless Headphones",
+        "category": "Audio",
+        "price": 130,
+        "image": "../assets/JBL.PNG",
+        "alt": "Casque Bluetooth JBL JB950 au design pliable avec commandes sur l'oreille",
+        "description": "Le JBL Everest JB950 est un casque sans fil polyvalent offrant un son riche avec des basses renforcées. Conçu pour le confort, il dispose d'un arceau réglable et d'un design pliable pratique pour le transport. Ce modèle se distingue par sa polyvalence, permettant d'écouter de la musique via Bluetooth, une carte SD ou la radio FM intégrée.",
+        "specs": [
+            "Version Bluetooth : 5.0 pour une connexion stable",
+            "Fonctionnalités : Bluetooth, Radio FM, Lecteur Carte SD",
+            "Microphone intégré pour appels mains libres",
+            "Design ergonomique et pliable",
+            "Autonomie : Jusqu'à 10 heures de lecture",
+            "Temps de charge : environ 2 heures"
+        ],
+        "stock": true,
+        "whatsappNumber": "+212691872335"
+    }
+]
